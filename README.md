@@ -4,6 +4,10 @@ A simple and efficient tool to download YouTube videos directly to your local ma
 
 ---
 
+![gifytdownloader](https://github.com/user-attachments/assets/c9cba2f4-6e7f-4ad9-92c4-ee6f1d33c0dd)
+
+---
+
 ## Features
 
 - Download YouTube videos in multiple resolutions
